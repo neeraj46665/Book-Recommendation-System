@@ -7,7 +7,7 @@ This is a simple book recommendation system implemented using Flask. The system 
 Make sure you have Python installed. Clone the repository and install the required packages using the following commands:
 
 \`\`\`bash
-git clone [https://github.com/your-username/your-repository.git](https://github.com/neeraj46665/Book-Recommendation-System.git)
+git clone https://github.com/neeraj46665/Book-Recommendation-System.git
 cd your-repository
 pip install -r requirements.txt
 \`\`\`
